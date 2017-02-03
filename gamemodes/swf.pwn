@@ -1,8 +1,8 @@
-		/*<State War Field || created by ShadyEG, JaKe Elite, FERCOPRO>*/
+		/*<State War Field || created by ShadyXO, JaKe Elite, FERCOPRO>*/
 ///////////////////////////// Server Includes //////////////////////////////////
 
-#include 					<a_samp>
-#define 					INI_CONVERT_DINI
+#include                    <a_samp>
+#define                     INI_CONVERT_DINI
 #include                    <gini>
 #include                    <a_http>
 #include                    <a_mysql>
@@ -2068,7 +2068,7 @@ CMD:pm(playerid,params[])
 	}
 	if(player == playerid)
 	{
-	    SendClientMessage(playerid, COLOR_RED, "Error:{FFFFFF} You can´t message yourself");
+	    SendClientMessage(playerid, COLOR_RED, "Error:{FFFFFF} You canÂ´t message yourself");
 	    return 1;
 	}
 	format(finmsg,sizeof(finmsg),"**[PM] from %s(%d): %s", GetName(playerid), playerid, msg);
