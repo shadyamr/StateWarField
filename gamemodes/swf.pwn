@@ -1,8 +1,8 @@
-		/*<State War Field || created by ShadyXO, JaKe Elite, FERCOPRO>*/
+		/*<State War Field || created by ShadyEG, JaKe Elite, FERCOPRO>*/
 ///////////////////////////// Server Includes //////////////////////////////////
 
-#include                    <a_samp>
-#define                     INI_CONVERT_DINI
+#include 					<a_samp>
+#define 					INI_CONVERT_DINI
 #include                    <gini>
 #include                    <a_http>
 #include                    <a_mysql>
