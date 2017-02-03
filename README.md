@@ -5,4 +5,5 @@ State War Field was made back in 2013 by Shady, Jake and Fercorpro. The script w
 * Compatible with SA-MP 0.3.7.
 * Best Anti-Cheat that can be configured in .cfg file.
 * Encryption of passwords.
+* Ban system based on SQLite.
 * Maps made by ourselves and many more.
